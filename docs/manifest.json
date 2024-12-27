@@ -1,6 +1,6 @@
 {
-    "short_name": "TheBest",
-    "name": "The Best Budgeting App",
+    "short_name": "TheBestBudget",
+    "name": "The Best Budgeting Tool",
     "icons": [
       {
         "src": "docs/icons/icon-192x192.png",
